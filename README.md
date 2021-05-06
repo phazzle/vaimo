@@ -7,7 +7,7 @@ Clone the project to your directory.
 Packages that are added is react-countdown.Which is for the countdown.
 To install the package run
 `npm install react-countdown --save`
-###Run the page/web
+### Run the page/web
 To run the page use `npm start` in your cloned project directory.
 ### `npm start` to run the project
 Runs the app in the development mode.\
