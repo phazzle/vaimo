@@ -5,7 +5,7 @@ Nodejs is required.
 Clone the project to your directory.
 ####Packages
 Packages that are added is react-countdown.Which is for the countdown.
-To install run
+To install the package run
 `npm install react-countdown --save`
 To run the page use `npm start` in your cloned project directory.
 ### `npm start` to run the project
