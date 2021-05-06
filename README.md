@@ -3,7 +3,7 @@ Implement a simple product detail page.
 ## Requirements and Installation 
 Nodejs is required.
 Clone the project to your directory.
-####Packages
+#### Packages
 Packages that are added is react-countdown.Which is for the countdown.
 To install the package run
 `npm install react-countdown --save`
