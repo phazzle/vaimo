@@ -1,7 +1,10 @@
-# Getting Started with Create React App
+# FE Technical Assignment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Implement a simple product detail page.
+## Installation
+Nodejs is required 
+Clone the project to your directory
+### `npm start` to run the project
 ## Available Scripts
 
 In the project directory, you can run:
