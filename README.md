@@ -3,12 +3,12 @@ Implement a simple product detail page.
 ## Requirements and Installation 
 Nodejs is required.
 Clone the project to your directory.
-run this script to download reactscripts `npm install react-scripts --save`
+run this script to download reactscripts '`npm install react-scripts --save`'
 It might give you an error a couple of times. Do it until all packages are downloaded.
 #### Packages
 Packages that are added is react-countdown.Which is for the countdown.
 To install the package run
-`npm install react-countdown --save`
+'`npm install react-countdown --save`'
 ### Run the page/web
 To run the page use `npm start` in your cloned project directory.
 ### `npm start` to run the project
