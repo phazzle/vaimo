@@ -14,7 +14,7 @@ Every website you browse, be web application is built on the client-server archi
 
 
 ## My choice of the technology stack
-In this assignment, I'm using react js. React js is popular most people are using it for the front-end. What is nice about it you can build small components which will make up a website. Also, there is a huge support for it if someone gets stuck or having a problem/error
+In this assignment, I'm using react js. React js is popular. Most people are using it for the front-end instead of other frameworks. What is nice about it you can build small components which will make up a website. Also, there is a huge support for it if someone gets stuck or having a problem/error.
 
 
 
